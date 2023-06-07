@@ -14,10 +14,7 @@ Print the even numbers between 1-20.
 ### Step 5: 
 End the program.
 ## PROGRAM:
-~~~
-Name   : H.Syed Abdul Wasih
-Reg No : 212221240057
-~~~
+
 ~~~
 public class Main {
     public static void main(String[] args) {
